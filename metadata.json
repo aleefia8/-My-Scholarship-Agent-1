@@ -1,0 +1,9 @@
+{
+  "name": "ScholarshipAI Hub",
+  "description": "A comprehensive scholarship management and assistant platform featuring AI chatbot, financial planning with thinking mode, voice interaction, and visual content generation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
